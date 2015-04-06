@@ -7,7 +7,7 @@ if (cal>5)
 {
 	
 if ((cal>=6)&&(cal<8)){printf("Estas apobado.\n");}
-if (cal >=8){printf("Estas exento\n");}
+if (cal >=8){printf("Estas exento, eres bien matado :P\n");}
 
 }
 	if (cal==0){printf("Tienes Np.\n");}

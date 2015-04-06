@@ -23,7 +23,7 @@ x1=(-b+(sqrt(aux)))/2*a;
 x2=(-b-sqrt(aux))/2*a;
 
 printf("\n\nLa primera solucion de x es: %.2f y la segunda es: %.2f\n\n",x1,x2);
-
+printf("\n Hasta Luego");
 }
 return 0;
 }

@@ -9,7 +9,7 @@ El programa debe introducir cada uno de estos datos, calcular el nuevo saldo y d
 main(){
 	int d;
 	float s,g,c,e;
-	p("\nBienvenido\n");
+	p("\nBienvenido buen hombre\n");
 ciclo:	p("¿Ingresará datos? 1 -si 0 -no\n");
 	sc("%i",&d);
 	if(d == 0) goto fin;
